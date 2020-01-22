@@ -142,7 +142,7 @@ a:hover {
   margin-bottom: 0.35em;
   font-size: 3em;
   line-height: 40px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .post {
@@ -255,7 +255,7 @@ a:hover {
   font-weight: 600;
   font-size: 0.65em;
   display: block;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 #sidebar-button {
