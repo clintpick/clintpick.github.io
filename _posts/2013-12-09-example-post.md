@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example
+title: Exploring modern webscraper
 cover: cover.jpg
 date:   2013-11-09 12:00:00
 categories: posts
