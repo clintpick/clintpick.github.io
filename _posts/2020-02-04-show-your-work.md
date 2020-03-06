@@ -42,3 +42,23 @@ Empathize: Say out loud what you imagine the other person is experiencing
 Keep a journal: Record your thoughts, feelings and future plans; look for emerging patterns
 Plan for the future: Plan changes in behavior based on the patterns you identified
 Create your own future: Combine the virtues of the dreamer, the realist, and the critic
+
+## Think process, not products
+
+TAKE PEOPLE BEHIND THE SCENES
+
+When a painter talks about her “work”, she could be talking about two different things:
+
+The ‘Artwork’. This is the finished piece, like the painting that gets framed and hung on the gallery wall,
+Or, the ‘art WORK’. This is the day-to-day work of creating the art. This is all of the stuff that goes on behind the scenes in her studio – the ideas, the searching for inspiration, the initial sketches, the mixing of the colours, then the act of applying oil to canvas. 
+There’s PAINTING the noun (the thing you end up with) and PAINTING the verb (the act of doing the work). You can apply this concept more broadly to your work and view things as either the PRODUCT or the PROCESS. Traditionally, artists only ever shared their products and kept the process a secret just to themselves. In the past, an artist was supposed to toil away in secrecy, hidden away from the outside work, keep her ideas to herself and keeping her work under lock and key, waiting until she has a magnificent product to show and at which point tries to connect with an audience. That might have made sense in the pre-digital age, when it was too hard or too cost to share thing from your journey. But today,. By taking advantage of the internet and social media, an artist can share what she wants whenever she wants with whomever she wants at almost no cost. She can share those inspirations in the early phases, she can share the tools she’s using as she progresses, she can blog about her influences or post pictures of her sketches or post videos of her work-in-progress. By opening yourself and your work to the ‘real’ world, you can not only begin to connect with your audience sooner, you can get the vital feedback you need to make changes or improvements along the way (rather than slaving away in hiding until it’s ‘done’ only to find out that no one wants it).
+
+## Teach what you know
+
+In the book ‘ReWork’ by Jason Fried and David Heinemeier Hansson, we were encouraged to emulate chefs by out-TEACHING their competition. They asked: what do you do? What are your ‘recipes’? What’s your ‘cookbook’? These are the secrets that you could share and teach. What can you tell the world about how you operate that’s informative and educational? You might think that these are precisely that things that you DON’T want to share, that keeping that these secrets to yourself can give you an advantage, but is someone is learning about your work they’re implicitly interested in your work. So show your work!
+
+Think of the most famous chefs in the world: Jamie Oliver, Nigella Lawson, Gordon Ramsay, Martha Stewart. They all have recipe books and TV shows. They are chefs, they’ve created marvelous new dishes, but they’re teaching everyone else how to cook… They’re giving up their secrets and showing people exactly how they could copy them. It seems counterintuitive, but this is exactly what’s made them famous – they don’t have any secret dishes that you can only get if you buy from them, they share everything, and by doing so they’ve attracted a worldwide audience. 
+
+Share your reading list, point to helpful reference materials, create some tutorials to teach people. Take people step-by-step through part of your process – make people better at something that they want to be better at. Teaching people doesn’t subtract from what you do, it actually adds to it. People feel closer to you because you’re letting them in on what you know.
+
+
