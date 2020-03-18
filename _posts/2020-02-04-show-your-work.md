@@ -6,6 +6,9 @@ date:   2020-02-04 12:00:00
 categories: posts
 ---
 
+##Draft
+
+I've always had a deep admiration for individuals who have the discipline and penmanship to meticuosly note down their inner-most thought, feelings and experiences by keeping a journal. Many famous creatives, writers, innovators and original thinkers such as Isaac Newton, Abraham Lincoln, Andy Warhol, Leonardo Da Vinci, Marcus Aurelius, Charles Darwin, Winston Churchill, Benjamin Franklin, Ernest Hemingway, George Bernard Shaw and Maya Angelou kept journals. For many, it is a creative necessity, for others, a place for exploration, and for some an art form in and of itself. I have recently decided to
 
 ## Reflective Practice
 
