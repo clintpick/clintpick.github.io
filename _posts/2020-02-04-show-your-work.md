@@ -1,14 +1,21 @@
 ---
 layout: post
-title: Reasons To Start Blogging
+title: Show your work
 cover: cover.jpg
 date:   2020-02-04 12:00:00
 categories: posts
 ---
 
-##Draft
+## Draft
 
-I've always had a deep admiration for individuals who have the discipline and penmanship to meticuosly note down their inner-most thought, feelings and experiences by keeping a journal. Many famous creatives, writers, innovators and original thinkers such as Isaac Newton, Abraham Lincoln, Andy Warhol, Leonardo Da Vinci, Marcus Aurelius, Charles Darwin, Winston Churchill, Benjamin Franklin, Ernest Hemingway, George Bernard Shaw and Maya Angelou kept journals. For many, it is a creative necessity, for others, a place for exploration, and for some an art form in and of itself. I have recently decided to
+I've always had admiration for individuals who have the discipline and penmanship to meticuosly note down their inner-most thoughts, feelings and experiences by keeping a personal journal or a public-facing blog. Many creatives, writers, innovators and original thinkers keep journals, and for many, it is a creative necessity, for others, a place for exploration, and for some an art form in and of itself. 
+
+I am reminded of Doogie Howser, M.D., a show about a teenage genius who became a medical doctor. Every show wrapped up with Doogie writing a couple of lines on the  word processor of his IBM-clone perfectly reflecting the theme of that episode. 
+
+As a graphic designer, I enjoyed visiting  the portfolio sites of
+internet-famous designers and illustrators who revelled in showing their process to by clearly and concisely detailing their process - from the initial concept, rough sketches to the glossy finished product.
+
+I have recently decided to show my process of learning in this open manner so that others can then learn from my failures and successes.
 
 ## Reflective Practice
 
